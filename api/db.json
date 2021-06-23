@@ -3,12 +3,20 @@
     {
       "title": "mystream",
       "description": "test",
+      "userId": "2",
       "id": 1
     },
     {
       "title": "Other Stream",
       "description": "Check it out",
+      "userId": "1",
       "id": 2
+    },
+    {
+      "title": "MyRealStream",
+      "description": "This stream has an id attached to it",
+      "userId": "106078927353761049350",
+      "id": 3
     }
   ]
 }
